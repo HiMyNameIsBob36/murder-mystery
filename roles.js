@@ -15,3 +15,8 @@ tag @r[tag=queue] add lawyer
 tag @a[tag=lawyer] remove queue
 title @a[tag=lawer] subtitle §l§bLAWYER
 tellraw @a[tag=lawer] {"rawtext":[{"text":"§bYou need to protect the mole, there username is §9"},{"selector":"@a[tag=imposter]"}]}
+# Netural (Vulture)
+tag @r[tag=queue] add vulture
+tag @a[tag=vulture] remove queue
+title @a[tag=vulture] subtitle §l§uVULTURE
+tellraw @a[tag=lawer] {"rawtext":[{"text":"§UYou need to eat 3 dead bodys to win."}]}
