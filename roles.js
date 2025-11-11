@@ -19,4 +19,4 @@ tellraw @a[tag=lawer] {"rawtext":[{"text":"§bYou need to protect the mole, ther
 tag @r[tag=queue] add vulture
 tag @a[tag=vulture] remove queue
 title @a[tag=vulture] subtitle §l§uVULTURE
-tellraw @a[tag=lawer] {"rawtext":[{"text":"§UYou need to eat 3 dead bodys to win."}]}
+tellraw @a[tag=vulture] {"rawtext":[{"text":"§UYou need to eat 3 dead bodys to win."}]}
