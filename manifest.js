@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "§cMurder §4§oMystery!",
-		"description": "Find the murders.\n§cThe map will not work without this pack.\nMade with help from @Flashes in You§cTube.",
+		"name": "§cMurder §4Mystery",
+		"description": "Find the imposters, or become one.\nThe map will §l§cnot§r work without this pack.\nMade with help from @Flashes on You§cTube.",
 		"uuid": "416b747f-c1d9-41ec-8eaf-e3e3ce64ea39",
 		"version": [ 1, 0, 0 ],
 		"min_engine_version": [ 1, 21, 100 ]
